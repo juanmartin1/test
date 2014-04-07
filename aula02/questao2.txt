@@ -1,0 +1,1 @@
+O programa descrito cria uma variável de nome x, e recebe como input um valor. Este valor é, então, armazenado em x e mostrado na tela.

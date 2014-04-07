@@ -1,0 +1,1 @@
+A maquina no qual o programa está rodando executará uma operação caso o valor de num seja 10. Caso contrário, ela "pulará" esta parte do programa.
