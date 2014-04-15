@@ -1,6 +1,0 @@
-git clone https://github.com/fkodanrc/test.git
-cd test
-git add arquivo
-git commit -m "Envio de arquivo"
-git remote add test https://github.com/fkodanrc/test.git
-git push test master
